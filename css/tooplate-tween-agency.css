@@ -327,7 +327,7 @@ button:focus:not(:focus-visible) {
 }
 
 .navbar-brand {
-  font-size: 40px;
+  font-size: 25px;
   color: var(--white-color);
 }
 
