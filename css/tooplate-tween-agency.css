@@ -568,7 +568,7 @@ button:focus:not(:focus-visible) {
   border-radius: 0;
   border: 0;
   border-bottom: 1px solid transparent;
-  color: var(--border-color);
+  color: #38b083;
   font-weight: var(--font-weight-bold);
   margin: auto;
   position: relative;
